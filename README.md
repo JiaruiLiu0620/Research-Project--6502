@@ -1,4 +1,6 @@
 # Comparative Rhetorical Analysis of Immigration Policy in Trump and Biden's State of the Union Addresses
 
-Abstract
+# Abstract
+
+
 This project explores the rhetorical differences in immigration policy between Presidents Trump and Biden as expressed in their State of the Union (SOTU) addresses. Using textual analysis techniques, the study examines immigration-related segments from six SOTU speeches (Trump: 2018-2020; Biden: 2021-2023) to identify thematic focus, sentiment, and linguistic patterns. Key methods include Term Frequency-Inverse Document Frequency (TF-IDF) analysis to extract significant keywords, sentiment analysis (VADER) to evaluate emotional tone, Latent Dirichlet Allocation (LDA) for topic modeling, and word co-occurrence networks to uncover connections between terms. Results reveal contrasting priorities: Trump’s rhetoric emphasizes border security and enforcement with a predominantly negative tone, while Biden’s rhetoric highlights immigration reform and humanitarian considerations with a more neutral or positive tone. These findings underscore the impact of presidential rhetoric on public discourse and policy framing, providing critical insights into the intersection of language and policymaking in the U.S. immigration debate.
